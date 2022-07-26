@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Kỹ năng x&amp;#226;y dựng b&amp;#224;i giảng trực tuyến" />
+              <option name="title_text" value="P2 - Kỹ năng x&amp;#226;y dựng b&amp;#224;i giảng trực tuyến" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1199,53 +1199,60 @@
       <links>
         <slidelink slideid="_player.5Y4MYpOsTj9" displaytext="Phần 2: Kỹ năng xây dựng bài giảng trực tuyến" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5Y4MYpOsTj9.5vkqimQVY14" displaytext="Giới thiệu" expand="false" type="slide" />
-            <slidelink slideid="_player.5Y4MYpOsTj9.6JDKhFxAurY" displaytext="Dạy học trực tuyến và giờ học (bài giảng) trực tuyến" expand="false" type="slide">
+            <slidelink slideid="_player.5Y4MYpOsTj9.5vkqimQVY14" displaytext="Tiêu đề" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.6JDKhFxAurY" displaytext="Dạy học trực tuyến và giờ học (bài giảng) trực tuyến" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.6MGNW5uAhQm" displaytext="Những khó khăn" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.5y7emBJBFYO" displaytext="Bối cảnh tổ chức bài dạy trực tuyến" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.6ipqVG8uiKw" displaytext="Xây dựng môi trường dạy học trực tuyến" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.6SQmyqevPbC" displaytext="Chuyển đổi chương trình giáo dục nhà trường" expand="true" type="slide">
               <links>
-                <slidelink slideid="_player.5Y4MYpOsTj9.6MGNW5uAhQm" displaytext="Những khó khăn" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.5xKIPNeX4Ps" displaytext="Những khó khăn" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6KSKAEcqL3B" displaytext="Những khó khăn" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6MisPyq8Wdc" displaytext="Những khó khăn" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6Pc8YuZ4R4t" displaytext="Điểm giống và khác nhau" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6qUNcmsdURe" displaytext="Yêu cầu" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.5y7emBJBFYO" displaytext="Bối cảnh tổ chức bài dạy trực tuyến" expand="false" type="slide" />
-              </links>
-            </slidelink>
-            <slidelink slideid="_player.5Y4MYpOsTj9.6ipqVG8uiKw" displaytext="Xây dựng môi trường dạy học trực tuyến" expand="false" type="slide">
-              <links>
-                <slidelink slideid="_player.5Y4MYpOsTj9.6SQmyqevPbC" displaytext="Chuyển đổi chương trình giáo dục nhà trường" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5tWjoSoLtL3" displaytext="Chuyển đổi chương trình giáo dục nhà trường" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6BS6kQq4SYq" displaytext="Chuyển đổi chương trình giáo dục nhà trường" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6Sfx1fuppuX" displaytext="Chuyển đổi chương trình giáo dục nhà trường" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.5xYqy2MNUQt" displaytext="Kết nối học liệu số" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.5xYqy2MNUQt" displaytext="Kết nối học liệu số" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.5idr8xJjXUn" displaytext="Kết nối học liệu số" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6NTlUDYYIBU" displaytext="Kết nối học liệu số" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.5bX4r9ph0sx" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.5bX4r9ph0sx" displaytext="Kết nối kênh giao tiếp, tương tác" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.5W76NLXh1xL" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6TvP3PVs0BX" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.66UoAk2WgfT" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5hAeeb0YkGc" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5XRHa5kjR8a" displaytext="Kết nối kênh giao tiếp, tương tác" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.60MltILbqgw" displaytext="Kết nối thiết bị hỗ trợ" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.60MltILbqgw" displaytext="Kết nối thiết bị hỗ trợ" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.5v7awCtbla1" displaytext="Kết nối thiết bị hỗ trợ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.68zHMtz7ftF" displaytext="Kết nối thiết bị hỗ trợ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5ktQKlBvIt7" displaytext="Kết nối thiết bị hỗ trợ" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.5Y4MYpOsTj9.5odXkpZ4tlb" displaytext="Các bước thiết kế giờ học trực tuyến" expand="false" type="slide">
+            <slidelink slideid="_player.5Y4MYpOsTj9.5odXkpZ4tlb" displaytext="Các bước thiết kế giờ học trực tuyến" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y4MYpOsTj9.5n1aztEYqlZ" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="true" type="slide">
               <links>
-                <slidelink slideid="_player.5Y4MYpOsTj9.5n1aztEYqlZ" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6VuF5HT29wZ" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5fohyhVI1sK" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5fvhCCv5GiC" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5d4JzdoEjV6" displaytext="Xây dựng mục tiêu theo tiếp cận hoạt động cho học sinh" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6RolLk69tat" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.6RolLk69tat" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.6CSvetbS8XL" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.68megZ4aDDw" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5xlEdolhZ8o" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.64rDdiMJk1L" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6RdjECEWwJ6" displaytext="Số hóa và thiết kế nội dung bài dạy theo tiếp cận hoạt động của học sinh" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.6SsGrVDWi9d" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.6SsGrVDWi9d" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.6ET5Wk4hq8u" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6KtpONJvRG9" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.67Xj9tRGRaz" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
@@ -1259,8 +1266,12 @@
                 <slidelink slideid="_player.5Y4MYpOsTj9.5V2k7HLNwns" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5hvFYqTuM0M" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5fyPT59x86V" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
+                <slidelink slideid="_player.5Y4MYpOsTj9.6hNNZN0ooKb" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6KWe8T4noFF" displaytext="Thiết kế cấu trúc các hoạt động tương tác với học sinh dựa trên công nghệ" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.65lyhWFNyYN" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.65lyhWFNyYN" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.5jNrzrVxdER" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5npQhOuaQLy" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.5vzxSkcmgwd" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
@@ -1274,13 +1285,16 @@
                 <slidelink slideid="_player.5Y4MYpOsTj9.5yl77YqzMOL" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6mNVw9zG7MB" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
                 <slidelink slideid="_player.5Y4MYpOsTj9.6QzdCEoPgUS" displaytext="Thiết kế hoạt động kiểm tra đánh giá tương tác và thúc đẩy dựa trên công nghệ" expand="false" type="slide" />
-                <slidelink slideid="_player.5Y4MYpOsTj9.5icAtQTJkYo" displaytext="Xây dựng giáo án số" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5Y4MYpOsTj9.5icAtQTJkYo" displaytext="Xây dựng giáo án số" expand="true" type="slide">
+              <links>
                 <slidelink slideid="_player.5Y4MYpOsTj9.6Kf6bs5vpkQ" displaytext="Xây dựng giáo án số" expand="false" type="slide" />
               </links>
             </slidelink>
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Bài tập trắc nghiệm" expand="true" type="slide" />
+        <slidelink slideid="_player.5weB7gu9A4N.6Hez1QrNTGx" displaytext="Bài tập trắc nghiệm" expand="false" type="slide" />
       </links>
     </outline>
   </nav_data>
